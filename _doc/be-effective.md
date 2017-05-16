@@ -11,7 +11,7 @@ author: Nicolas Sebrecht
 
 ## Know the organization
 
-There are 4 official ressources you should know:
+There are 4 official resources you should know:
 
 * [This website]({{ site.base }}/): should have all the documentation you need.
 * [The project at Github]({{ links.offlineimap.project }}): for issues and development.
